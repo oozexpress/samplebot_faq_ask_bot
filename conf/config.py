@@ -37,8 +37,8 @@ SECRET_KEY_NAME = "private_20200328073951.key"
 LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-54-157-78-113.compute-1.amazonaws.com"
+DB_NAME = "d3pee858bbm7mo"
+DB_USER = "awpcdnihgcgdpe"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "3561037b4b66e0cc3219f2268a54bab5ed8a72513b7a88985cdd4be27677bf34"
