@@ -113,10 +113,10 @@ CAROUSEL = {
 
 POST_BACK_URLS = {
     "leave": [
-        "https://community.worksmobile.com/jp/",
-        "https://community.worksmobile.com/jp/",
-        "https://community.worksmobile.com/jp/",
-        "https://community.worksmobile.com/jp/"
+        "https://www.naver.com",
+        "https://www.naver.com",
+        "https://www.naver.com",
+        "https://www.naver.com"
     ],
     "welfare": [
         "https://community.worksmobile.com/jp/",
