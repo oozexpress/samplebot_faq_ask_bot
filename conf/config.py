@@ -20,7 +20,7 @@ limitations under the License.
 import os
 
 # default language ['en'|'ko'|'ja']
-DEFAULT_LANG = 'ja'
+DEFAULT_LANG = 'ko'
 
 # account
 ADMIN_ACCOUNT = "perhaps@lottecard.biz"
